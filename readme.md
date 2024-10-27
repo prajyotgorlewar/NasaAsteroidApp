@@ -22,7 +22,7 @@
    git clone https://github.com/yourusername/astrotracker.git
 2. Go to Directory:
    ```bash   
-   cd astrotracker
+   cd NasaAsteroidApp
 2. Install dependencies:
    ```bash
    npm install
